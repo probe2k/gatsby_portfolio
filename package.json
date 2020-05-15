@@ -1,9 +1,9 @@
 {
   "private": true,
-  "name": "cara",
-  "description": "Playful and Colorful One-Page portfolio featuring Parallax effects and animations",
+  "name": "probe2k",
+  "description": "Portfolio website",
   "version": "0.1.4",
-  "author": "LekoArts <hello@lekoarts.de>",
+  "author": "Yash Singh",
   "license": "MIT",
   "starter-name": "gatsby-starter-portfolio-cara",
   "scripts": {
